@@ -28,7 +28,7 @@ bool helper(stringstream &input, int len)
 	//make your changes below this line.
 	char next;
 	input>>next;
-	if (val&&prev==next){
+	if (val&&prev==next){//check if word[mid-n] = word[mid+n]
 		return true;	
 	} 
 	return false;
