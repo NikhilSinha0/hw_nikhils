@@ -1,0 +1,1 @@
+Note on hw1q5: Program is written with the assumption that all input files will have an integer on the first line that is not necessary to be outputted, and is therefore trashed. 
